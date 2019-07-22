@@ -1,0 +1,16 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "8a30cf83-051e-4bbc-8633-0a872440063c"
+	},
+	"author": "Tom G",
+	"dependencies": {}
+}
